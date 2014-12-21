@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Orvid.Graphics", "Orvid.Graphics\Orvid.Graphics.csproj", "{C9E995CF-CB65-4410-A7D2-63EBBE02AABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageManipulatorTester", "ImageManipulatorTester\ImageManipulatorTester.csproj", "{1A36573D-5EC1-4EA7-B65C-1AAA537292B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9E995CF-CB65-4410-A7D2-63EBBE02AABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9E995CF-CB65-4410-A7D2-63EBBE02AABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9E995CF-CB65-4410-A7D2-63EBBE02AABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9E995CF-CB65-4410-A7D2-63EBBE02AABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A36573D-5EC1-4EA7-B65C-1AAA537292B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A36573D-5EC1-4EA7-B65C-1AAA537292B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A36573D-5EC1-4EA7-B65C-1AAA537292B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A36573D-5EC1-4EA7-B65C-1AAA537292B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
